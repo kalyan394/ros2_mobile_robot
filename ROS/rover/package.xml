@@ -3,7 +3,7 @@
 <name>rover</name>
 <version>0.0.0</version>
 <description>TODO: Package description</description>
-<maintainer email="noshluk2@gmail.com">luqman</maintainer>
+<maintainer email="Your@gmail.com">Name</maintainer>
 <license>TODO: License declaration</license>
 <depend>rclpy</depend>
 <depend>ros_ign_gazebo</depend>

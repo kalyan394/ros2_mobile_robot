@@ -27,8 +27,13 @@
       - colcon build --symlink-install --packages-select rover(package_name).
 9. For cloning use below one by navigating to the workspace
     - git clone https://github.com/kalyan394/ros2_mobile_robot.git
+    
+## Ignition gazebo version :
 
-                                                            
+     Ignition Gazebo, version 3.13.0
+Copyright (C) 2018 Open Source Robotics Foundation.
+Released under the Apache 2.0 License.
+                                                          
 
 ## System Requirements
 - Ubuntu 20.04
